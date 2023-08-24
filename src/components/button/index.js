@@ -4,7 +4,7 @@ const Button = ({text, onClick}) => {
   return (
     <button onClick={onClick}>
         <p1>
-            Haz ckick aqui  
+        🛒 Mi carrito 
         </p1>
 
     </button>
